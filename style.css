@@ -234,6 +234,7 @@ padding: 20px 0;
   border-right: solid 5px var(--text-primary);
   margin-right: 2px;
   padding-right: 2px;
+  font-size: 2rem;
 }
 #wave{
   position: relative;
